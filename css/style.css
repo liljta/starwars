@@ -3,6 +3,7 @@ h1{
     justify-content: center;
     margin-top: 20px;
     color: #18807c;
+    font-weight: 800;
 }
 
 body{
@@ -10,7 +11,7 @@ body{
     color: #2c3248;
 }
 
-.result p {
+/*.result p {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -19,7 +20,8 @@ body{
 .result p:hover {
     background-color: #28ce8f;
     color: #FFFFFF;
-}
+}*/
+
 
 
              
